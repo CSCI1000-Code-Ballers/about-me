@@ -15,7 +15,10 @@ export default function oliverBrowne() {
           />
 
           <p className='description'>
-            Bienvinidos esto es mi webpage.mi llamo es oliver. Yo gusto mujeres. adios 
+            Bienvinidos esto es mi webpage.mi llamo es oliver. 
+            i have4 cats and am allergic to them
+            i enjoying skiing running and cooking 
+            sadly i am not good at fortnite unlike mitch Kubina 
           </p>
 
           <a className='button' href='/'>
