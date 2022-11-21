@@ -25,6 +25,7 @@ export default function Home() {
             className='card'>
             <h3>Oliver Browne&rarr;</h3>
             <p>
+
             All about Oliver Browne (coolest guy?)
             </p>
           </a>
