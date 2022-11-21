@@ -21,11 +21,11 @@ export default function Home() {
             <p>All about Mitchell Thomas Kubina (cool guy)</p>
           </a>
           <a
-            href='https://github.com/wangalec/website-template'
+            href='/oliverBrowne'
             className='card'>
-            <h3>Project Resources&rarr;</h3>
+            <h3>Oliver Browne&rarr;</h3>
             <p>
-              Return to the Github for resources on creating your own website!
+            All about Oliver Browne (coolest guy?)
             </p>
           </a>
         </div>
